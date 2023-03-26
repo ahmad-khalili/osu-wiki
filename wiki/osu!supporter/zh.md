@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: aa750946913bfd81cd3ede0b23dbf925b56d7bdd
 tags:
   - support
   - supporter
@@ -7,6 +9,8 @@ tags:
   - 支持者标签
   - 撒泼特
 ---
+
+<!--The strings on the website on line 154 have been updated as of https://github.com/ppy/osu-web/pull/9820. To update this page, also check if the corresponding strings on crowdin need to be updated.-->
 
 # osu! 支持者
 
@@ -87,7 +91,7 @@ osu! 为支持者们放宽各种在线功能的限额：
 
 | 功能 | 普通玩家限额 | 支持者限额 |
 | :-- | :-: | :-: |
-| [Pending 谱面](/wiki/Beatmap/Category#work-in-progress-和-pending) | `2 + min(Ranked 谱面, 6)`最多 **8** 个[^pending-beatmaps-ref] | `8 + min(Ranked 谱面, 12)`最多 **20** 个[^pending-beatmaps-ref] |
+| [Pending 谱面](/wiki/Beatmap/Category#work-in-progress-和-pending) | `4 + min(Ranked 谱面, 4)`最多 **8** 个[^pending-beatmaps-ref] | `8 + min(Ranked 谱面, 12)`最多 **20** 个[^pending-beatmaps-ref] |
 | 在线收藏的谱面 | 100 | 1000 |
 | 好友数量 | 250 | 500 |
 

@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: aa750946913bfd81cd3ede0b23dbf925b56d7bdd
 tags:
   - supporter tag
   - osu!supporter tag
@@ -9,6 +11,8 @@ tags:
   - тег
   - тэг
 ---
+
+<!--The strings on the website on line 156 have been updated as of https://github.com/ppy/osu-web/pull/9820. To update this page, also check if the corresponding strings on crowdin need to be updated.-->
 
 # osu!supporter
 
@@ -89,7 +93,7 @@ osu!direct — это инструмент для поиска и скачива
 
 | Параметр | Без osu!supporter | С osu!supporter |
 | :-- | :-: | :-: |
-| [Число загруженных карт](/wiki/Beatmap/Category#work-in-progress-и-pending) | `2 + min(число ранкнутых карт, 6)`, в сумме до **8**[^pending-beatmaps-ref] | `8 + min(число ранкнутых карт, 12)`, в сумме до **20**[^pending-beatmaps-ref] |
+| [Число загруженных карт](/wiki/Beatmap/Category#work-in-progress-и-pending) | `4 + min(число ранкнутых карт, 4)`, в сумме до **8**[^pending-beatmaps-ref] | `8 + min(число ранкнутых карт, 12)`, в сумме до **20**[^pending-beatmaps-ref] |
 | Число карт в избранном на сайте | 100 | 1000 |
 | Число друзей | 250 | 500 |
 

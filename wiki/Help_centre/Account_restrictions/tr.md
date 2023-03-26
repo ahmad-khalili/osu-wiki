@@ -25,7 +25,7 @@ Aşağıdaki özellikler kısıtlanmış hesaplar için devre dışıdır:
 Eğer hesabınız kısıtlandıysa, panik yapmayın. Lütfen bu adımları izleyin:
 
 - **24 saat bekleyin.** Bazı kısıtlamalar otomatik sürecin sonucudur. Biz bu kısıtlamaları her gün kontrol ederken, lütfen 24 saat bekleyin - eğer kısıtlamanız hatalıysa belirtilen süre içinde kalkacaktır.
-- **[Hesap destek ekibimizle](/wiki/People/The_Team/Account_support_team) iletişime geçin.** Eğer hesabınız belirtilen süreden sonra kısıtlı kalırsa, lütfen kısıtlamanızla ilgili detayları sormak için **hesabınıza bağlı e-postadan** [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine bir e-posta gönderin. Kullanıcı adınızı, hesabınızın kısıtlanmasına neden olduğunu düşündüğünüz detaylar ile birlikte eklediğinizden emin olun. Bize ne kadar çok anlatırsanız, sorunu sonuçlandırmamız o kadar kolay olur.
+- **[Hesap destek ekibimizle](/wiki/People/Account_support_team) iletişime geçin.** Eğer hesabınız belirtilen süreden sonra kısıtlı kalırsa, lütfen kısıtlamanızla ilgili detayları sormak için **hesabınıza bağlı e-postadan** [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine bir e-posta gönderin. Kullanıcı adınızı, hesabınızın kısıtlanmasına neden olduğunu düşündüğünüz detaylar ile birlikte eklediğinizden emin olun. Bize ne kadar çok anlatırsanız, sorunu sonuçlandırmamız o kadar kolay olur.
 - Eğer kısıtlanmanızın hatalı olduğundan son derece eminseniz, hemen bize ulaşın ki sorununuzu görüşebilelim.
 
 Eğer hesabınız [kuralları](/wiki/Rules) çiğnediği için kısıtlandıysa, itiraz göndermenize izin verilmeden önce üç aylık katı bir bekleme süresi uygulanacaktır.
@@ -72,8 +72,6 @@ Eğer geri dönmenize izin vermişsek, hesabınızın kısıtlaması kalkmadan �
 - **Kendiniz veya başkası için başka bir hesap oluşturmayacaksınız.**
 - Paylaşılan bilgisayarlarda oynamak dahil, **başka hesaplarla bağlantınız olmamalı**.
 - **Herhangi bir ciddi olumsuz davranış derhal kısıtlamaya neden olacaktır**. Bu uzun susturulmaları da kapsar.
-
-Buna ek olarak, bir sene boyunca, hesabınız için hiçbir bayrak değişikliği yapmayacağız.
 
 Bazı durumlarda, itirazı kabul edilen kişinin resmi ve rozetli turnuvalara hem yarışmacı olarak hem de turnuva ekibinin bir üyesi olarak katılması yasaklanabilir. Bu yasağın süresi suç başına 1 yıldır (eğer kullanıcının ikinci itirazıysa, yasağın süresi 2 yıldır). Kısıtlamanın kalktığına dair e-posta bu yasaklamanın süresini net şekilde belirtir.
 

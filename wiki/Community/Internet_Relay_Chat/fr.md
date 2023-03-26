@@ -40,12 +40,13 @@ Par défaut, de nombreux clients IRC vous informent lorsqu'un utilisateur rejoin
 
 | Client IRC | Description |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/) | Cochez la case "Masquer les messages d'arrivé et de départ" dans la section `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6)  |
+| [HexChat](https://hexchat.github.io/) | Cochez la case "Masquer les messages d'arrivée et de départ" dans `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6)  |
 | [ircII](http://www.eterna.com.au/ircii/) | Écrivez `IGNORE * CRAP` |
 | [Irssi](https://irssi.org) | Écrivez `/ignore * JOINS PARTS QUITS` |
 | [Weechat](https://weechat.org/) | Écrivez `/filter add joinquit * irc_join,irc_part,irc_quit *` |
+| [Konversation](https://konversation.kde.org/) | Cochez la case "Hide Join/Part/Nick Events" dans `Settings` -> `Configure Konversation...` (`Ctrl` + `Shift` + `,`) -> `Behavior` -> `Chat Window` |
 | [KVIrc](https://www.kvirc.net/) | (Référez vous à [the KVIrc wiki page](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages)) |
-| [mIRC](https://www.mirc.com/) | Allez dans les options de mIRC (`Tools` -> `Options`, ou `Alt` + `O`), sélectionnez `IRC`, cliquez sur le bouton `Events...` et sélectionnez `Hide` pour les messages d'arrivé et de départ. |
+| [mIRC](https://www.mirc.com/) | Allez dans les options de mIRC (`Tools` -> `Options`, ou `Alt` + `O`), sélectionnez `IRC`, cliquez sur le bouton `Events...` et sélectionnez `Hide` pour les messages d'arrivée et de départ. |
 | [Quassel IRC](https://quassel-irc.org/) | Faites un clic droit dans le tchat et choisissez Joins/Parts/Quits dans le menu "Hide Events". |
 | [XChat](http://xchat.org/) | Écrivez `/set irc_conf_mode 1` |
 
@@ -77,10 +78,10 @@ Tapez les premières lettres du nom d'utilisateur, puis utilisez le touche `Tab`
 La norme IRC a un concept de modes de canal, ou des ensembles d'actions que chaque utilisateur peut effectuer. Dans osu!Bancho, deux modes sont utilisés pour des groupes spéciaux d'utilisateurs du tchat :
 
 - `+`, ou "statut vocal" : l'utilisateur est connecté via un client IRC externe
-- `@`, ou "statut d'opérateur de tchat" : l'utilisateur est un modérateur de tchat, ([GMT](/wiki/People/The_Team/Global_Moderation_Team) ou [NAT](/wiki/People/The_Team/Nomination_Assessment_Team))
+- `@`, ou "statut d'opérateur de tchat" : l'utilisateur est un modérateur de tchat, ([GMT](/wiki/People/Global_Moderation_Team) ou [NAT](/wiki/People/Nomination_Assessment_Team))
 
 Les utilisateurs connectés via le client osu! ou le site web n'ont pas de préfixe.
 
 ### Quelqu'un envoie des messages, mais il n'est pas dans la liste des utilisateurs du canal !
 
-Ils sont soit en train d'utiliser [la version internet du tchat](https://osu.ppy.sh/community/chat), soit connectés via [osu!(lazer)](https://github.com/ppy/osu).
+Ils sont soit en train d'utiliser [la version internet du tchat](https://osu.ppy.sh/community/chat), soit connectés via [osu!(lazer)](/wiki/Client/Release_stream/Lazer).

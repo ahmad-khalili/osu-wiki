@@ -26,7 +26,7 @@ Gehe in den Editor und klicke auf `Datei` > `Beatmap hochladen`, um deine Beatma
 
 Dadurch wird deine Beatmap auf der Webseite für andere verfügbar zum Herunterladen. Das Aktualisieren einer Beatmap ist derselbe Prozess für eine Beatmap, die bereits hochgeladen wurde.
 
-Jeder Nutzer hat eine begrenzte Anzahl an Beatmaps, die er gleichzeitig hochladen kann. Wenn eine Beatmap für einen Monat (28 Tage) lang inaktiv gelassen wird, indem sie nicht aktualisiert wird, wird sie auf den [Beatmap-Friedhof](/wiki/Beatmap/Category#graveyard) verschoben. Aktualisiere die Beatmap, um sie aus dem Beatmap-Friedhof zurück in den Status "Pending" oder "WIP" zu setzen.
+Jeder Nutzer hat eine begrenzte Anzahl an Beatmaps, die er gleichzeitig hochladen kann. Wenn eine Beatmap für einen Monat (28 Tage) lang inaktiv gelassen wird, indem sie nicht aktualisiert wird, wird sie auf den [Beatmap-Friedhof](/wiki/Beatmap/Category#friedhof) verschoben. Aktualisiere die Beatmap, um sie aus dem Beatmap-Friedhof zurück in den Status "Pending" oder "WIP" zu setzen.
 
 ## Der Editor sagt mir "Du bist nicht der Besitzer der Beatmap, die du gerade hochladen möchtest!" {#wrong-author}
 
@@ -44,7 +44,7 @@ Solltest du immer noch Probleme haben oder nach mehr Informationen suchen, lies 
 
 ## Wie kann ich meine Beatmap löschen? {#delete-beatmap}
 
-**Das [Support-Team](/wiki/People/The_Team/Account_support_team) nimmt keine Anfragen an, um hochgeladene Beatmaps manuell zu löschen.**
+**Das [Support-Team](/wiki/People/Account_support_team) nimmt keine Anfragen an, um hochgeladene Beatmaps manuell zu löschen.**
 
 Du kannst deine Beatmap selbst löschen, indem du wartest, dass sie auf dem Beatmap-Friedhof landet, was nach einem Monat (28 Tage) ohne Aktualisierungen passieren wird.
 

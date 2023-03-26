@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5da77d5a1a4f3ca9f88000e232dbf7b005144764
+---
+
 # Hạn chế tài khoản
 
 *Bài báo chính: [Trung tâm trợ giúp](/wiki/Help_centre)*
@@ -20,7 +25,7 @@ Những chức năng sau sẽ bị tắt đối với tài khoản bị hạn ch
 Nếu tài khoản bạn bị hạn chế, đừng hoảng hốt. Hãy làm theo các bước sau:
 
 - **Chờ 24 tiếng.** Đôi khi bạn bị hạn chế bởi quy trình tự động nào đó. Chúng tôi luôn kiểm tra các ca hạn chế mới mỗi ngày, xin vui lòng chờ 24 tiếng - nếu bạn bị hạn chế nhầm, thì bạn có thể sẽ được gỡ trong khoảng thời gian đó.
-- **Liên hệ  [đội ngũ hỗ trợ tài khoản](/wiki/People/The_Team/Account_support_team) của chúng tôi.** Nếu tài khoản của bạn vẫn bị hạn chế sau khoảng thời gian trên, vui lòng gửi email tới [accounts@ppy.sh](mailto:accounts@ppy.sh) **từ email liên kết với tài khoản** để hỏi thêm chi tiết về việc bị hạn chế. Nhớ ghi kèm tên tài khoản, cùng với bất cứ thông tin gì bạn có thể cung cấp thêm như là lý do bạn nghĩ mình bị hạn chế. Bạn cung cấp càng nhiều thông tin, chúng tôi càng dễ giải quyết vấn đề cho bạn.
+- **Liên hệ  [đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team) của chúng tôi.** Nếu tài khoản của bạn vẫn bị hạn chế sau khoảng thời gian trên, vui lòng gửi email tới [accounts@ppy.sh](mailto:accounts@ppy.sh) **từ email liên kết với tài khoản** để hỏi thêm chi tiết về việc bị hạn chế. Nhớ ghi kèm tên tài khoản, cùng với bất cứ thông tin gì bạn có thể cung cấp thêm như là lý do bạn nghĩ mình bị hạn chế. Bạn cung cấp càng nhiều thông tin, chúng tôi càng dễ giải quyết vấn đề cho bạn.
 - Nếu bạn chắc chắn rằng mình bị hạn chế oan, vui lòng liên hệ cho chúng tôi ngay lập tức để chúng tôi có thể xử lý vụ việc của bạn.
 
 Nếu tài khoản của bạn bị hạn chế bởi vì vi phạm [nội quy](/wiki/Rules), bạn phải chờ tối thiểu **ba tháng** trước khi có thể xin khiếu nại.
@@ -67,8 +72,6 @@ Nếu chúng tôi quyết định cho bạn quay lại, chúng tôi sẽ yêu c�
 - **Bạn sẽ không tạo thêm tài khoản, bất kể cho bạn hay cho người khác.**
 - **Bạn không nên liên đới với các tài khoản khác** bao gồm chơi ở các máy tính dùng chung (như quán net, ...).
 - **Bất cứ vi phạm lớn nào sẽ khiến bạn bị hạn chế ngay lập tức**. Điều này bao gồm việc bị Im lặng lâu.
-
-Thêm vào đó, trong thời hạn một năm, chúng tôi sẽ không chấp nhận yêu cầu thay đổi cờ ở tài khoản của bạn.
 
 Đối với một vài trường hợp, người chơi trở lại sẽ bị cấm tham gia các giải đấu chính thức và các giải có huy hiệu, bất kể dưới vai trò là người chơi hay là thành viên của ban tổ chức giải. Thời hạn cấm là 1 năm nhân với số lần bạn đã vi phạm (nếu người chơi quay lại sau lần khiếu nại thứ hai, thì sẽ bị cấm 2 năm). Điều này sẽ được ghi rõ trong email phản hồi khiếu nại.
 

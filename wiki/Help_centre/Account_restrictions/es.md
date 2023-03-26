@@ -24,7 +24,7 @@ Las siguientes funciones están desactivadas para las cuentas restringidas
 Si tu cuenta ha sido restringida, no entre en pánico. Por favor sigue los siguientes pasos
 
 - **Espera 24 horas.** Algunas restricciones son resultado de procesos automatizados. Como revisamos cada nueva restricción diariamente, por favor espere 24 horas - si ha sido restringido erróneamente, probablemente la restricción será levantada en ese tiempo.
-- **Contacte a nuestro [equipo de atención a cuentas](/wiki/People/The_Team/Account_support_team).** Si su cuenta sigue restringida después de ese tiempo, por favor envíe un correo electrónico a [accounts@ppy.sh](mailto:accounts@ppy.sh) **desde el correo electrónico ligado a su cuenta** para más detalles de su restricción. Asegúrate de agregar el nombre de tu cuenta, junto con cualquier detalle que nos pueda proveer sobre razones por las que pudo ser restringido. Entre más detalles nos cuente, más fácil será para nosotros resolver el problema.
+- **Contacte a nuestro [equipo de atención a cuentas](/wiki/People/Account_support_team).** Si su cuenta sigue restringida después de ese tiempo, por favor envíe un correo electrónico a [accounts@ppy.sh](mailto:accounts@ppy.sh) **desde el correo electrónico ligado a su cuenta** para más detalles de su restricción. Asegúrate de agregar el nombre de tu cuenta, junto con cualquier detalle que nos pueda proveer sobre razones por las que pudo ser restringido. Entre más detalles nos cuente, más fácil será para nosotros resolver el problema.
 - Si crees fuertemente que tu restricción fue errónea, por favor contáctenos inmediatamente para que podamos discutir su caso.
 
 Si tu cuenta ha sido restringida por romper las [reglas](/wiki/Rules), un estricto tiempo de espera de 3 meses será forzado antes de que pueda enviar una apelación.
@@ -71,8 +71,6 @@ Sí decidimos dejarte regresar, requeriremos que aceptes algunos términos antes
 - **No vas a crear otra cuenta, ya sea para ti o alguien más.**
 - **No deberás asociarte con otras cuentas.** incluye jugar en computadores compartidos.
 - **Cualquier mal comportamiento mayor resultará en una restricción inmediata.**. Esto incluye silenciamientos importantes.
-
-Adicionalmente, por un período de un año, no vamos a conceder cambios de bandera a tu cuenta.
 
 En algunos casos, un jugador apelado puede ser vetado de torneos oficiales y torneos con insignia, así como competidor y miembro del equipo en el torneo. La duración de este veto es de un año (sí es la segunda apelación del usuario, el veto dura 2 años). El correo de levantamiento de restricción aclarará la duración de este veto.
 

@@ -273,7 +273,7 @@ This competition has come to an end and resulted in the following podium:
   2. [FELT - Feel The Flow (ReySHeL) \[Oni\]](https://osu.ppy.sh/beatmapsets/107346#taiko/281402)
   3. [Fatal Force & Crusher P - Wildfire (Kin) \[PyrOni\]](https://osu.ppy.sh/beatmapsets/348660#taiko/992595)
 - FreeMod
-  1. [kamome sano - archive::zip (ekumea1123) \[inner::oni\]](https://osu.ppy.sh/beatmapsets/860544#taiko/1800462)
+  1. [kamome sano - archive\:\:zip (ekumea1123) \[inner\:\:oni\]](https://osu.ppy.sh/beatmapsets/860544#taiko/1800462)
   2. [PSYQUI - Still In My Heart (Ft. Puniden) (hoku) \[With you ^-^\]](https://osu.ppy.sh/beatmapsets/959055#taiko/2007890)
   3. [Dormir - Cookie Bouquets (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/992797#taiko/2076171)
 - Extra
@@ -488,7 +488,7 @@ Sunday, 26 April 2020:
 ### Mappool instructions
 
 1. Each stage will receive its own mappool.
-2. Each mappool consists of 7 brackets: NoMod, Extra, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time), FreeMod, and Tiebreaker.
+2. Each mappool consists of 7 brackets: NoMod, Extra, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time), FreeMod, and Tiebreaker.
 3. Each mappool consists of 18 maps in total.
 4. Each mappool has one tiebreaker.
    - The tiebreaker will be played without mods activated.

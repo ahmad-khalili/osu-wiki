@@ -83,7 +83,7 @@ osu! offers more relaxed limits on various online features to supporters:
 
 | Value | Regular limit | osu!supporter limit |
 | :-- | :-: | :-: |
-| [Pending beatmaps](/wiki/Beatmap/Category#work-in-progress-and-pending) | `2 + min(ranked beatmaps, 6)`, up to **8**[^pending-beatmaps-ref] | `8 + min(ranked beatmaps, 12)`, up to **20**[^pending-beatmaps-ref] |
+| [Pending beatmaps](/wiki/Beatmap/Category#work-in-progress-and-pending) | `4 + min(ranked beatmaps, 4)`, up to **8**[^pending-beatmaps-ref] | `8 + min(ranked beatmaps, 12)`, up to **20**[^pending-beatmaps-ref] |
 | Online beatmap favourites | 100 | 1000 |
 | Friend count | 250 | 500 |
 
@@ -143,8 +143,8 @@ osu!supporter may also be gifted to another player by entering their username in
 
 After the transaction is completed, there will be a new event in the `Recent Activity` section in the profile of both the giver and the recipient:
 
-- `{username} has become an osu! supporter - thanks for your generosity!` if it is the first time the user gets osu!supporter.
-- `{username} has once again chosen to support osu! - thanks for your generosity!` if the user has been an osu!supporter before.
+- `{username} has supported osu! - thanks for your generosity!` if it is the first time the user gets osu!supporter or gifts it to someone else.
+- `{username} has once again chosen to support osu! - thanks for your generosity!` if the user has been an osu!supporter or gifted it before.
 - `{username} has received the gift of osu!supporter!` in case the tag was gifted.
 
 Additionally, both the giver and the recipient will receive e-mail notifications mentioning the purchase.

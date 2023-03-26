@@ -1,8 +1,12 @@
 ---
+outdated_translation: true
+outdated_since: aa750946913bfd81cd3ede0b23dbf925b56d7bdd
 tags:
   - supporter tag
   - osu!supporter tag
 ---
+
+<!--The strings on the website on line 150 have been updated as of https://github.com/ppy/osu-web/pull/9820. To update this page, also check if the corresponding strings on crowdin need to be updated.-->
 
 # osu!supporter
 
@@ -83,7 +87,7 @@ Para supporter akan dapat menikmati berbagai fitur online yang osu! tawarkan sec
 
 | Fitur | Batas normal | Batas bagi pengguna dengan osu!supporter |
 | :-- | :-: | :-: |
-| [Beatmap Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) | `2 + min(jumlah beatmap Ranked, 6)`, hingga **8**[^pending-beatmaps-ref] | `8 + min(jumlah beatmap Ranked, 12)`, hingga **20**[^pending-beatmaps-ref] |
+| [Beatmap Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) | `4 + min(jumlah beatmap Ranked, 4)`, hingga **8**[^pending-beatmaps-ref] | `8 + min(jumlah beatmap Ranked, 12)`, hingga **20**[^pending-beatmaps-ref] |
 | Beatmap favorit | 100 | 1000 |
 | Teman | 250 | 500 |
 
